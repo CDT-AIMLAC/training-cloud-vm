@@ -6,4 +6,4 @@ The links below have all the software dependencies and code examples included wi
 
 ## Automated Testing and Continuous Integration in Python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CDT-AIMLAC/training-cloud-vm/blob/python-testing-ci/README.md/python-ci-testing)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CDT-AIMLAC/training-cloud-vm.git/python-testing-ci)
